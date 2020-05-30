@@ -2,6 +2,33 @@
 a {
   text-decoration: none;
 }
+.syokai {
+  margin: 20px;
+  box-shadow: 6px 7px 4px 0px rgba(0, 0, 0, 0.26);
+  background-color: hsla(0, 0%, 0%, 0.04);
+  font-family: sans-serif;
+  position:relative;
+}
+.syokai .syokailink {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.syokaicontent {
+  padding: 10px;
+}
+.syokainame{
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.syokai p {
+   padding: 0 7px;
+
+}
 .m0 {
   margin-bottom: 0px !important;
 }

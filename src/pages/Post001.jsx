@@ -79,13 +79,13 @@ const Post001= () => (
   <Image filaname="moppyget2.jpg"/>
   <p>メニューから【ポイント交換】をタップします</p>
   <p>ポイント交換をタップすると、ポイントの交換先がズラリと並びます</p>
-  <Image filename="moppyget3"/>
+  <Image filename="moppyget3.jpg"/>
   <p>今回は現金に交換したいので、セブン銀行（ATM受取）を選びます</p>
   <p>交換手数料も安く、リアルタイムで受付しているので現金受け取りはセブン銀行一択です</p>
-  <Image filename="moppyget4"/>
+  <Image filename="moppyget4.jpg"/>
   <p>セブン銀行（ATM受取）を選んだら、先ほど獲得したポイントを入力しましょう</p>
   <p>入力が完了したら、次に進みます</p>
-  <Image filename="moppyget5"/>
+  <Image filename="moppyget5.jpg"/>
   <p>最後まで入力が完了し、メールアドレスでの認証が完了したらセブン銀行でお金を下ろすための【確認番号】と【お客様番号】が表示されます</p>
   <h3>【最終ステップ】セブンイレブンへGO</h3>
   <p>ここまで来たらあとはお近くのセブン銀行ATMにいくだけです。</p>
@@ -100,9 +100,16 @@ const Post001= () => (
   <p>そのような状態を考えるに、多分現在現金化できる唯一の方法が多分これだと思います。</p>
   <p>そして、moppyというサイトの仕様上、この方法は未来永劫残り続けると思います。</p>
   <p>ではみなさん良い現金化ライフを送ってください！</p>
-  <p className="m0">紹介サイト</p>
-  <p>moppy</p>
-  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b">https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b</a>
+  </div>
+  <div className="syokai">
+  <a className="syokailink" href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"></a>
+  <div className="syokaicontent">
+  <Image filename="moppydown.jpg"/>
+
+  <p className="syokainame">moppy</p>
+  <p>累計会員800万人超えの超巨大ポイントサイト</p>
+  <p>高還元率案件がポイントサイトの中でもトップクラスで多く、交換スピードも早いので人気もトップクラスである</p>
+  </div>
   </div>
     </Layout>
   )
