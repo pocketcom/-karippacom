@@ -14,6 +14,7 @@ const Post001= () => (
       filename="Post001.jpg"
       />
       <div className="post">
+        <h2>こんにちは</h2>
       </div>
     </Layout>
   )
