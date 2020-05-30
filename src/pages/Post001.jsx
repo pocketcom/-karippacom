@@ -30,7 +30,7 @@ const Post001= () => (
   <p>今回紹介するお小遣いサイトには、携帯決済やクレジットカード決済を現金化するためにしか見えないポイント還元システムが存在します。</p>
   <p>今回はそのポイント還元システムを利用して、携帯電話のクレジット枠を現金化します。</p>
   <h3>・お小遣いサイト【moppy】に登録</h3>
-  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"><Image filename="moppy" alt="moppy"/></a>
+  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"><Image filename="moppy.png" alt="moppy"/></a>
   <p>先ほど少し紹介したようにこちらで紹介しているモッピーはお小遣いサイトの一つです</p>
   <p>数あるお小遣いサイトの中でも現金化するときの還元率が最も高く、一番早く現金化できるサイトです。</p>
   <p>本来は、毎日アンケートに答えたり、友達を紹介したりして少しづつポイントをためるサイトなのですが、今回はガッツリ現金化するためのサイトとして利用します</p>
