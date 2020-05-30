@@ -2,6 +2,60 @@
 a {
   text-decoration: none;
 }
+.m0 {
+  margin-bottom: 0px !important;
+}
+.post a {
+  padding:0 6px;
+  padding-bottom:10px;
+  text-decoration: underline;
+}
+.MuiButton-label {
+  padding: 0 23px;
+}
+.post {
+  padding-top: 20px;
+  font-family:"Roboto";
+  margin:0 5px;
+}
+.post h2 {
+  padding: 15px 20px;
+    background-color: #f8f8fa;
+    letter-spacing: 1.5px;
+    font-size: 1.2em;
+    margin-bottom: 25px;
+}
+.post h3 {
+  border-bottom: 1px dashed;
+    font-size: 20px;
+    /* padding-left: 10px; */
+    margin-left: 13px;
+    padding-bottom: 5px;
+    margin-top: 8px;
+}
+.post p {
+  font-size: 14px;
+    font-weight: bold;
+    padding: 0 6px;
+    margin-bottom: 10px;
+}
+
+.post ul, ol {
+  color: #1e366a;
+  border-top: solid #1e366a 1px;/*上のボーダー*/
+  border-bottom: solid #1e366a 1px;/*下のボーダー*/
+  padding: 0.5em 0 0.5em 1.5em;
+    margin:3px;
+    color:black;
+    font-weight: bold;
+  }
+
+.post ul li, ol li {
+  line-height: 1.5;
+  padding: 0.5em 0;
+  }
+
+
 .PostTitle {
   display: flex;
 }
