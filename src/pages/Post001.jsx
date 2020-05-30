@@ -100,9 +100,10 @@ const Post001= () => (
   <p>そのような状態を考えるに、多分現在現金化できる唯一の方法が多分これだと思います。</p>
   <p>そして、moppyというサイトの仕様上、この方法は未来永劫残り続けると思います。</p>
   <p>ではみなさん良い現金化ライフを送ってください！</p>
-
-
-      </div>
+  <p className="m0">紹介サイト</p>
+  <p>moppy</p>
+  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b">https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b</a>
+  </div>
     </Layout>
   )
 export default Post001

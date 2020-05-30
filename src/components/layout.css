@@ -34,8 +34,7 @@ a {
     margin-top: 8px;
 }
 .post p {
-  font-size: 14px;
-    font-weight: bold;
+  font-size: 16px;
     padding: 0 6px;
     margin-bottom: 10px;
 }
@@ -79,6 +78,7 @@ a {
 .imageDescription {
   padding:7px 5px;
   display:flex;
+  margin-bottom: 10px;
 }
 
 .ContentArea {
