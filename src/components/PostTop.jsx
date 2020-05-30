@@ -12,7 +12,7 @@ const PostTop=(props)=>(
     color="Primary"/>
     <p>{props.postDate}</p>
     </div>
-    <h2>{props.postTitle}</h2>
+    <h1 className="posttoph1">{props.postTitle}</h1>
     </div>
     <Image filename={props.filename} alt={props.alt}/>
     </>
