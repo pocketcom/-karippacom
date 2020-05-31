@@ -13,6 +13,7 @@ const Post002= () => (
       postDate="2020/4/26"
       postTitle="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
       filename="melpay.jpg"
+      alt="メルペイスマート払いでコンビニ払いを後払いしよう"
       />
       <div className="post">
         <h2>1.こんな人にオススメ</h2>
@@ -90,7 +91,7 @@ const Post002= () => (
   <div className="syokai">
   <a className="syokailink" href="https://www.mercari.com/jp/"></a>
   <div className="syokaicontent">
-  <Image filename="mel2"/>
+  <Image filename="mel2" alt="メルペイの紹介"/>
   <p className="syokainame">メルペイスマート払い</p>
   <p>大人気メルカリ社が出している後払い機能つきサービス</p>
   <p>決済機能がIDであり、初期設定金額も１万円と高いため、後払いサービスの中でもかなり需要がありそうである

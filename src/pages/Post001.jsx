@@ -13,6 +13,7 @@ const Post001= () => (
       postDate="2020/4/26"
       postTitle="【2020年最新】無職OK！無審査で即日５万円をキャッシングする方法とは"
       filename="Post001.jpg"
+      alt="無審査で即日５万円をキャッシングする方法"
       />
       <div className="post">
         <h2>1.こんな人にオススメ</h2>
@@ -41,7 +42,7 @@ const Post001= () => (
   <p>今回紹介するお小遣いサイトには、携帯決済やクレジットカード決済を現金化するためにしか見えないポイント還元システムが存在します。</p>
   <p>今回はそのポイント還元システムを利用して、携帯電話のクレジット枠を現金化します。</p>
   <h3>・お小遣いサイト【moppy】に登録</h3>
-  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"><Image filename="moppy.png" alt="moppy"/></a>
+  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"><Image filename="moppy.png" alt="moppyとは"/></a>
   <p>先ほど少し紹介したようにこちらで紹介しているモッピーはお小遣いサイトの一つです</p>
   <p>数あるお小遣いサイトの中でも現金化するときの還元率が最も高く、一番早く現金化できるサイトです。</p>
   <p>本来は、毎日アンケートに答えたり、友達を紹介したりして少しづつポイントをためるサイトなのですが、今回はガッツリ現金化するためのサイトとして利用します</p>
@@ -49,8 +50,7 @@ const Post001= () => (
   <h3>登録手順</h3>
   <p>登録方法はとっても簡単です</p>
   <p>下記のリンクからモッピーの登録ページにジャンプします</p>
-  <p className="m0">moppy</p>
-  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b">https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b</a>
+  <a href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b">モッピーに登録する</a>
   <p>moppyのホームページに移動したら、早速モッピーに登録しよう！</p>
   <Image filename="moppytop.png" alt="モッピー登録"/>
   <p>mail,LINE,facebook登録方法はどれでも大丈夫です。</p>
@@ -77,26 +77,26 @@ const Post001= () => (
   <p>（例）10000円で90%還元の案件に登録すると9000円分のポイントがキャッシュバックされます。</p>
   <h3>案件に登録</h3>
   <p>今回は85%還元で8500P（8500円分）獲得できる案件に登録してみましょう！</p>
-  <Image filename="moppyto.jpg"/>
+  <Image filename="moppyto.jpg" alt="モッピーで案件を選ぶ"/>
   <p>登録ページにジャンプしたら、そこから有料会員登録してみましょう。</p>
   <p>大抵の案件はジャンプした先の登録ボタンから、有料会員登録できます</p>
-  <Image filename="moppyto2.jpg"/>
+  <Image filename="moppyto2.jpg"　alt="モッピーで案件に登録"/>
   <p>案件に登録してから３０分ほど待つと、登録した案件分のポイントが反映されます。</p>
   <p>ポイントが反映されたら早速、ポイントを現金化してみましょう。</p>
   <h3>ポイントを現金化しよう！</h3>
   <p>ページトップでポイントが追加されていることが確認できたら、早速ポイントを現金に交換しましょう。</p>
-  <Image filename="moppyget.jpg"/>
+  <Image filename="moppyget.jpg" alt="モッピーでポイントを現金化"/>
   <p>右上のメニューボタンをタップします</p>
-  <Image filaname="moppyget2.jpg"/>
+  <Image filaname="moppyget2.jpg" alt="モッピーでポイントを交換"/>
   <p>メニューから【ポイント交換】をタップします</p>
   <p>ポイント交換をタップすると、ポイントの交換先がズラリと並びます</p>
-  <Image filename="moppyget3.jpg"/>
+  <Image filename="moppyget3.jpg" alt="モッピーポイントをセブン銀行に送信"/>
   <p>今回は現金に交換したいので、セブン銀行（ATM受取）を選びます</p>
   <p>交換手数料も安く、リアルタイムで受付しているので現金受け取りはセブン銀行一択です</p>
-  <Image filename="moppyget4.jpg"/>
+  <Image filename="moppyget4.jpg" alt="モッピーポイントをセブン銀行で受け取る"/>
   <p>セブン銀行（ATM受取）を選んだら、先ほど獲得したポイントを入力しましょう</p>
   <p>入力が完了したら、次に進みます</p>
-  <Image filename="moppyget5.jpg"/>
+  <Image filename="moppyget5.jpg" alt="セブン銀行で現金を引き出す"/>
   <p>最後まで入力が完了し、メールアドレスでの認証が完了したらセブン銀行でお金を下ろすための【確認番号】と【お客様番号】が表示されます</p>
   <h3>【最終ステップ】セブンイレブンへGO</h3>
   <p>ここまで来たらあとはお近くのセブン銀行ATMにいくだけです。</p>
@@ -115,7 +115,7 @@ const Post001= () => (
   <div className="syokai">
   <a className="syokailink" href="https://pc.moppy.jp/entry/invite.php?invite=CZ8Se16b"></a>
   <div className="syokaicontent">
-  <Image filename="moppydown.jpg"/>
+  <Image filename="moppydown.jpg" alt="モッピーの紹介"/>
 
   <p className="syokainame">moppy</p>
   <p>累計会員800万人超えの超巨大ポイントサイト</p>

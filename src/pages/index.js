@@ -11,7 +11,7 @@ const IndexPage = () => (
     <Link to="/Post001/">
     <ContentArea
     title="【2020年最新】無審査で即日５万円をキャッシングする方法【携帯決済現金化】"
-    filename="Post001.jpg" alt ="moppy現金化"
+    filename="Post001.jpg" alt ="携帯決済現金化"
     date=
     "2020/5/26"
     link="../pages/post001/"
@@ -20,10 +20,19 @@ const IndexPage = () => (
     <Link to="/Post002/">
     <ContentArea
     title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
-    filename="melpay.jpg" alt ="melpay"
+    filename="melpay.jpg" alt ="メルペイ後払い"
     date=
     "2020/5/26"
-    link="../pages/post001/"
+    link="../pages/post002/"
+    />
+    </Link>
+    <Link to="/Post003/">
+    <ContentArea
+    title="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう"
+    filename="van.jpg" alt ="バンドルカード現金化"
+    date=
+    "2020/5/27"
+    link="../pages/post003/"
     />
     </Link>
 
