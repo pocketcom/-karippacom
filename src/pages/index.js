@@ -5,8 +5,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
+  <>
+  <SEO title="借りっぱなし.com" description="借りっぱなし債務者のための情報サイト、最新のキャッシング方法や現金化方法などあらゆる金策情報を配信しています。"/>
   <Layout>
-    <SEO title="借りっぱなし.com" description="借りっぱなし債務者のための情報サイト、最新のキャッシング方法や現金化方法などあらゆる金策情報を配信しています。"/>
     <Link to="/Post001/">
     <ContentArea
     title="【2020年最新】無審査で即日５万円をキャッシングする方法【携帯決済現金化】"
@@ -27,6 +28,7 @@ const IndexPage = () => (
     </Link>
 
   </Layout>
+  </>
 )
 
 export default IndexPage
