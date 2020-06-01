@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import Image from "../components/image"
 import PostTop from "../components/PostTop"
 import { Link } from "gatsby"
+import Posts from "./Posts"
 
 const Post002= () => (
     <Layout>
@@ -98,6 +99,7 @@ const Post002= () => (
   </p>
   </div>
   </div>
+  <Posts/>
     </Layout>
   )
 export default Post002

@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import Image from "../components/image"
 import PostTop from "../components/PostTop"
 import { Link } from "gatsby"
+import Posts from "./Posts"
 
 const Post001= () => (
     <Layout>
@@ -122,6 +123,7 @@ const Post001= () => (
   <p>高還元率案件がポイントサイトの中でもトップクラスで多く、交換スピードも早いので人気もトップクラスである</p>
   </div>
   </div>
+  <Posts/>
     </Layout>
   )
 export default Post001
