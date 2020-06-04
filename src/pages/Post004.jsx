@@ -106,7 +106,7 @@ const Post004= () => (
   </div>
   <Posts/>
   <SEO title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
-           description="Paidy翌月払いを使えば金融ブラックのあなたもAmazonでクレジット的買い物ができます"/>
+           description="Paidy翌月払いを使えば金融ブラックのあなたもAmazonでクレジット的買い物ができます。こんな人にオススメ、ブラックでも使える後払い機能について知りたい方。Amazonの後払い機能を使ってAmazonでの買い物を後払いしたい方。そんなあなたにぴったりのAmazon現金化法について今回は紹介いたします。"/>
     </Layout>
   )
 export default Post004
