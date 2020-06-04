@@ -8,8 +8,6 @@ import Posts from "./Posts"
 
 const Post001= () => (
     <Layout>
-      <SEO title="【2020年最新】無職OK！無審査で即日５万円をキャッシングする方法とは"
-           description="2020年最新、金融ブラック、無職でも無審査で借りられるキャッシング方法を紹介します"/>
       <PostTop
       postDate="2020/4/26"
       postTitle="【2020年最新】無職OK！無審査で即日５万円をキャッシングする方法とは"
@@ -125,6 +123,8 @@ const Post001= () => (
   </div>
   </div>
   <Posts/>
+  <SEO title="【ブラックでも借りたい人へ】無職OK！無審査で即日５万円をキャッシングする方法とは"
+           description="2020年最新、金融ブラック、無職でも無審査で借りられるキャッシング方法を紹介します"/>
     </Layout>
   )
 export default Post001

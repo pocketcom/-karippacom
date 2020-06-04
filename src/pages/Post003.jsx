@@ -8,8 +8,6 @@ import Posts from "./Posts"
 
 const Post002= () => (
     <Layout>
-       <SEO title="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう"
-           description="バンドルカード現金化法を使えば、金融ブラックの方でも現金を手に入れることができます"/>
       <PostTop
       postDate="2020/5/27/"
       postTitle="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう"
@@ -140,6 +138,8 @@ const Post002= () => (
   </div>
   </div>
   <Posts/>
+  <SEO title="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう"
+           description="バンドルカード現金化法を使えば、金融ブラックの方でも現金を手に入れることができます"/>
     </Layout>
   )
 export default Post002

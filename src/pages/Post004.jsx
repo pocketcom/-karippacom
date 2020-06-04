@@ -8,8 +8,6 @@ import Posts from "./Posts"
 
 const Post002= () => (
     <Layout>
-       <SEO title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
-           description="Paidy翌月払いを使えば金融ブラックのあなたもAmazonでクレジット的買い物ができます"/>
       <PostTop
       postDate="2020/6/1"
       postTitle="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
@@ -107,6 +105,8 @@ const Post002= () => (
   </div>
   </div>
   <Posts/>
+  <SEO title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
+           description="Paidy翌月払いを使えば金融ブラックのあなたもAmazonでクレジット的買い物ができます"/>
     </Layout>
   )
 export default Post002

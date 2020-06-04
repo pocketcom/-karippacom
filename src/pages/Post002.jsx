@@ -8,8 +8,6 @@ import Posts from "./Posts"
 
 const Post002= () => (
     <Layout>
-       <SEO title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
-           description="メルペイスマート払いを使えば、金融ブラックでもコンビニ支払いを後払いできます。最新の後払い手法を学びましょう"/>
       <PostTop
       postDate="2020/4/26"
       postTitle="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
@@ -100,6 +98,8 @@ const Post002= () => (
   </div>
   </div>
   <Posts/>
+  <SEO title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
+           description="メルペイスマート払いを使えば、金融ブラックでもコンビニ支払いを後払いできます。最新の後払い手法を学びましょう"/>
     </Layout>
   )
 export default Post002
