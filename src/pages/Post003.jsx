@@ -6,7 +6,7 @@ import PostTop from "../components/PostTop"
 import { Link } from "gatsby"
 import Posts from "./Posts"
 
-const Post002= () => (
+const Post003= () => (
     <Layout>
       <PostTop
       postDate="2020/5/27/"
@@ -142,4 +142,4 @@ const Post002= () => (
            description="バンドルカード現金化法を使えば、金融ブラックの方でも現金を手に入れることができます"/>
     </Layout>
   )
-export default Post002
+export default Post003
