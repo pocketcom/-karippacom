@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `借りっぱなし.com`,
-    description: `借りっぱなしでもまだ大丈夫。`,
+    description: `金融ブラック金策情報を専門に掲載しています。超ブラック、延滞ブラック、債務整理中の人でもお金を借りられる最新の情報のみを掲載しています。諦める前に一度ご覧になってみてください。`,
     author: `@My Name Is None`,
     siteUrl: `https://karippa.online`,
   },
