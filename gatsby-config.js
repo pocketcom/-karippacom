@@ -3,6 +3,7 @@ module.exports = {
     title: `借りっぱなし.com`,
     description: `借りっぱなしでもまだ大丈夫。`,
     author: `@My Name Is None`,
+    siteUrl: `https://karippa.online`,
   },
   plugins: [
     {
@@ -12,6 +13,7 @@ module.exports = {
         head: true,
       }
     },
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
