@@ -10,7 +10,7 @@ const Post004= () => (
     <Layout>
       <PostTop
       postDate="2020/6/1"
-      postTitle="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
+      postTitle="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう【生活保護OK】"
       filename="pay1.jpg"
       alt="Paidyを使ってAmazonで後払いする方法"
       />
@@ -23,6 +23,8 @@ const Post004= () => (
           <p>Paidyは平均３万円くらいまでは初回利用でも使うことができます</p>
           <li>今月分の食費がなくて、食べ物に困っている</li>
           <p>Amazonには冷凍食品ですが、食品が豊富に揃っているので、後払いでとりあえず耐え抜くことができます</p>
+          <li>生活保護の方</li>
+          <p>無審査で利用できるので生活保護の方もご利用いただけます</p>
         </ul>
 <h2>2.後払い可能な方
 </h2>
@@ -105,7 +107,7 @@ const Post004= () => (
   </div>
   </div>
   <Posts/>
-  <SEO title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
+  <SEO title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう【生活保護OK】"
            description="Paidy翌月払いを使えば金融ブラックのあなたもAmazonでクレジット的買い物ができます。こんな人にオススメ、ブラックでも使える後払い機能について知りたい方。Amazonの後払い機能を使ってAmazonでの買い物を後払いしたい方。そんなあなたにぴったりのAmazon現金化法について今回は紹介いたします。"/>
     </Layout>
   )

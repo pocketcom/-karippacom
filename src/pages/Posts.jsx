@@ -6,7 +6,7 @@ const Posts = () => (
   <>
     <Link to="/Post001/">
     <ContentArea
-    title="【ブラックでも借りたい人へ】無審査で即日５万円をキャッシングする方法【携帯決済現金化】"
+    title="【ブラックでも借りたい人へ】無審査で即日５万円をキャッシングする方法【生活保護OK】"
     filename="Post001.jpg" alt ="携帯決済現金化"
     date=
     "2020/5/26"
@@ -15,7 +15,7 @@ const Posts = () => (
     </Link>
     <Link to="/Post005/">
     <ContentArea
-    title="【実体験】任意整理して今すぐ催促を止めましょう。実体験を元に任意整理について説明します。"
+    title="【実体験】任意整理して今すぐ催促を止めましょう。実体験を元に任意整理について説明します。【生活保護OK】"
     filename="sugi1.jpg" alt ="ブラックの人はいますぐ催促の電話を止めよう"
     date=
     "2020/6/5"
@@ -24,7 +24,7 @@ const Posts = () => (
     </Link>
     <Link to="/Post002/">
     <ContentArea
-    title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
+    title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう【生活保護OK】"
     filename="melpay.jpg" alt ="メルペイ後払い"
     date=
     "2020/5/26"
@@ -33,7 +33,7 @@ const Posts = () => (
     </Link>
     <Link to="/Post003/">
     <ContentArea
-    title="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう"
+    title="【最新現金化】バンドルカードを作って、クレジット枠を現金化しよう【生活保護OK】"
     filename="van.jpg" alt ="バンドルカード現金化"
     date=
     "2020/5/27"
@@ -42,7 +42,7 @@ const Posts = () => (
     </Link>
     <Link to="/Post004/">
     <ContentArea
-    title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう"
+    title="【最新後払い】Paidy翌月払いを使ってAmazonでの買い物を後払いしよう【生活保護OK】"
     filename="pay1.jpg" alt ="paidyで翌月払いする方法"
     date=
     "2020/6/1"
