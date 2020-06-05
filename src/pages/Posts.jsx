@@ -13,6 +13,15 @@ const Posts = () => (
     link="../pages/post001/"
     />
     </Link>
+    <Link to="/Post005/">
+    <ContentArea
+    title="【実体験】任意整理して今すぐ催促を止めましょう。実体験を元に任意整理について説明します。"
+    filename="sugi1.jpg" alt ="ブラックの人はいますぐ催促の電話を止めよう"
+    date=
+    "2020/6/5"
+    link="../pages/post005/"
+    />
+    </Link>
     <Link to="/Post002/">
     <ContentArea
     title="【最新後払い】メルペイスマート払いを使ってコンビニ支払いを後払いしよう"
